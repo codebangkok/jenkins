@@ -8,6 +8,9 @@
 ### Docker Image
 - Jenkins https://hub.docker.com/r/jenkins/jenkins
 - Socat https://hub.docker.com/r/alpine/socat
+- https://hub.docker.com/r/codebangkok/jkgo
+- https://hub.docker.com/r/codebangkok/jkdocker
+- https://hub.docker.com/r/codebangkok/jkdotnet
 
 ### Download
 - Plugins https://drive.google.com/file/d/1s7NrNPEiIvDRFkQOwoxlBnHithqJnDmJ/view?usp=sharing
