@@ -12,6 +12,11 @@
 - https://hub.docker.com/r/codebangkok/jkdocker
 - https://hub.docker.com/r/codebangkok/jkdotnet
 
+### VSCode Extension
+- Jenkins Runner
+- Jenkinsfile Support
+- code-groovy
+
 ### Download
 - Plugins https://drive.google.com/file/d/1s7NrNPEiIvDRFkQOwoxlBnHithqJnDmJ/view?usp=sharing
 
