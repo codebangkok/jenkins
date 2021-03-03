@@ -1,13 +1,16 @@
 import groovy.json.JsonSlurper
 
-node("go_labels") {
+node("docker_labels") {
     stage("Clone") {
         git branch: 'bannasarn', url: 'https://github.com/codebangkok/jenkins'
     }
     stage("Build") {
-        sh "go build src/goapp/main.go"
+        sh "docker image build -t codebangkok/goapp src/goapp"
     }
-    stage("Test") {
-        sh "go test src/goapp/main.go"
+    stage("Push") {
+        sh """
+            docker login -u codebangkok -p Infinitas2021
+            docker image push codebangkok/goapp
+        """
     }
 }
