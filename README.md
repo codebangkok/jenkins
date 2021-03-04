@@ -17,9 +17,6 @@
 - Jenkinsfile Support
 - code-groovy
 
-### Download
-- Plugins https://drive.google.com/file/d/1s7NrNPEiIvDRFkQOwoxlBnHithqJnDmJ/view?usp=sharing
-
 ### Docker Compose: socat
 
 ```
