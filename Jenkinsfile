@@ -1,5 +1,7 @@
+import groovy.json.JsonSlurper
+
 node {
     stage("Hello") {
-        echo "Hello World"
+        sh ""      
     }
 }
