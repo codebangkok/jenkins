@@ -1,5 +1,8 @@
 # jenkins
 
+### Download
+- Plugins https://drive.google.com/file/d/16CJf-qc4CTWD1TMU3fJ9y5EjWJlDo1pW/view?usp=sharing
+
 ### Document
 - Jenkin Pipeline https://www.jenkins.io/doc/book/pipeline
 - Groovy Langurage http://groovy-lang.org
